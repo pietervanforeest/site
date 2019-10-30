@@ -1,0 +1,43 @@
+html {
+height: 100%;
+}
+
+body {
+ background-color: indianred;
+
+height: 100%;
+}
+#menu{
+background-color:white;
+width: 80%;
+height: 15%;
+
+}
+
+#container{
+background-color: yellow;
+width: 80%;
+height: 85%;
+display:flex;
+}
+#dash{
+background-color: magenta;
+width: 20%;
+height: 100%;
+}
+#twitter{
+background-color: purple;
+width: 60%;
+height: 10%;
+}
+#inhoud{
+background-color: grey;
+width: 20%;
+height: 10%;
+}
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>

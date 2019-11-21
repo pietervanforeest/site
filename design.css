@@ -10,7 +10,29 @@ body {
   background-position: bottom;
   background-size: 2000px;
 }
+.text {
 
+margin-top: 500 px
+
+}
+
+
+
+
+
+
+#img {
+
+
+margin-top: 20%;
+margin-left: 33%;
+
+}
+
+.img {
+margin-right: 24px;
+
+}
 
 .navbar {
   overflow: hidden;

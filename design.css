@@ -7,12 +7,17 @@ body {
   background-image: url("pizzabackground.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: 2000px;
+  background-position: top;
+  background-size: 2400px;
+  
 }
 .text {
 
-margin-top: 500 px
+margin-top: 5.5%;
+margin-left: 8%;
+font-weight: 900;
+color: midnightblue;
+
 
 }
 
@@ -53,7 +58,7 @@ margin-right: 24px;
   color: #ffffff;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: bold;
 }
 
 
